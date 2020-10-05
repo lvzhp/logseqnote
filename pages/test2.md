@@ -2,5 +2,11 @@
 title: test2
 ---
 
-## [[2020-10-05-22:35:44-1.excalidraw]]
-<iframe class="draw-iframe" src="/draw?file=2020-10-05-22:35:44-1.excalidraw" width="100%" height="600" frameborder="0" allowfullscreen></iframe> 
+## {{{embed ((## {{{embed ((5f7b2f08-7006-427b-8996-a96ede84c4f2)) }}}
+## 其中
+:PROPERTIES:
+:custom_id: 5f7b2f08-7006-427b-8996-a96ede84c4f2
+:END:
+### ))}}}
+##
+##
